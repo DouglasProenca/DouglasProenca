@@ -1,4 +1,4 @@
-###Douglas Proença 
+Douglas Proença
 <div align="center">
   <a href="https://github.com/DouglasProenca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DouglasProenca&layout=compact&langs_count=7&theme=dracula"/>
